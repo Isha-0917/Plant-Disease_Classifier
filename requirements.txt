@@ -1,0 +1,10 @@
+pandas
+numpy
+seaborn
+matplotlib
+randomforestclassifier
+scikit-learn
+sklearn
+xgboost
+pickle
+streamlit
