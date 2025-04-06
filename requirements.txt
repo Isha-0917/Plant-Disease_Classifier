@@ -6,5 +6,5 @@ randomforestclassifier
 scikit-learn
 sklearn
 xgboost
-pickle
+joblib
 streamlit
